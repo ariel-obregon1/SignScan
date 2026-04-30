@@ -1,1 +1,62 @@
-# SignScan
+# SignScanApp - Entorno de Librerías
+
+Este archivo lista todas las librerías instaladas en el entorno virtual de este proyecto (Python 3.11.9).
+
+## Librerías instaladas
+
+- absl-py (2.4.0)
+- anyio (4.13.0)
+- attrs (26.1.0)
+- certifi (2026.4.22)
+- cffi (2.0.0)
+- charset-normalizer (3.4.7)
+- click (8.1.8)
+- colorama (0.4.6)
+- comtypes (1.4.16)
+- contourpy (1.3.3)
+- cycler (0.12.1)
+- flatbuffers (25.12.19)
+- flet (0.84.0)
+- flet-desktop (0.84.0)
+- fonttools (4.62.1)
+- gTTS (2.5.4)
+- h11 (0.16.0)
+- httpcore (1.0.9)
+- httpx (0.28.1)
+- idna (3.13)
+- joblib (1.5.3)
+- kiwisolver (1.5.0)
+- matplotlib (3.10.9)
+- mediapipe (0.10.9)
+- msgpack (1.1.2)
+- numpy (2.4.4)
+- oauthlib (3.3.1)
+- opencv-contrib-python (4.13.0.92)
+- opencv-python (4.13.0.92)
+- packaging (26.1)
+- pandas (3.0.2)
+- pillow (12.2.0)
+- pip (24.0)
+- protobuf (3.20.3)
+- pycparser (3.0)
+- pygame (2.6.1)
+- pyparsing (3.3.2)
+- pypiwin32 (223)
+- python-dateutil (2.9.0.post0)
+- pyttsx3 (2.99)
+- pywin32 (311)
+- repath (0.9.0)
+- requests (2.33.1)
+- scikit-learn (1.8.0)
+- scipy (1.17.1)
+- setuptools (65.5.0)
+- six (1.17.0)
+- sounddevice (0.5.5)
+- threadpoolctl (3.6.0)
+- typing_extensions (4.15.0)
+- tzdata (2026.2)
+- urllib3 (2.6.3)
+
+---
+
+Este archivo se generó automáticamente para documentar el entorno virtual del proyecto.
